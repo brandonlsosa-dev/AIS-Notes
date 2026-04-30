@@ -93,20 +93,6 @@ tags:
 
 ### Why Token Size Varies
 
-- LLMs use **Byte-Pair Encoding (BPE)** to efficiently handle any text
-    - Breaks text into subword units
-- **Common words**: 1 token each
-    - "the" = 1 token
-    - "and" = 1 token
-    - "you" = 1 token
-- **Less common words**: Multiple tokens
-    - "unbelievable" = 3 tokens ("un" + "believ" + "able")
-- **Rare words**: Split into individual letters
-    - "asdfghjkl" = 9 tokens
-- **Key benefit**: Handles any text, even unseen words
-
-### Why Token Size Varies
-
 - LLMs use **Byte-Pair Encoding (BPE)** to handle text efficiently
     - No need to know exact formula for building systems, pricing, or windows
 - **Common words**: 1 token each
