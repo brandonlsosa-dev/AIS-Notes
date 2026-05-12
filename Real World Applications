@@ -1,4 +1,4 @@
-# Practical Applications of Vector Databases: Optimized Notes
+# Real World Applications
 
 ## 1. Fundamentals of Vector Databases
 Vector databases are purpose-built to store, index, and query **embeddings**—mathematical representations of data in high-dimensional space.
