@@ -13,7 +13,7 @@ tags:
   - skool
 ---
 
-## n8n Data Types
+## Data Types
 
 - Data flows through n8n workflows in a structured format, often represented as JSON objects
     - Core data types encountered:
